@@ -1,0 +1,13 @@
+<head>
+<style>
+  h2 {
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+
+  }
+</style>
+
+...
+
+Use CSS offsets to move the h2 15 pixels to the right and 10 pixels up.
