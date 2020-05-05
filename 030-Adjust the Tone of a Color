@@ -1,0 +1,14 @@
+<style>
+  header {
+    background-color: hsl(180, 90%, 35%);
+    color: #FFFFFF;
+  }
+
+  nav {
+ background-color: hsl(180, 80%, 25%)
+  }
+
+...
+All elements have a default background-color of transparent. Our nav element currently appears to have a cyan background,
+because the element behind it has a background-color set to cyan. Add a background-color to the nav element so it uses the same cyan hue,
+but has 80% saturation and 25% lightness values to change its tone and shade.
